@@ -1,2 +1,6 @@
-# COMP-410--Data-structures
-This repository contains implementations of data structures in java
+# Splay Tree
+A splay tree is a form of a balanced BST, with the additional property that recently accessed elements are quick to access again.
+
+![Splay tree](./images/SPLAY.png)
+
+
